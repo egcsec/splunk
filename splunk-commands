@@ -2,3 +2,7 @@
 An easy example of a Splunk search: 
 
 source="favorite_colors.json" | table name, "favorite color" | sort "favorite color", name
+
+Official Splunk commands: 
+
+https://docs.splunk.com/Documentation/SCS/current/SearchReference/SearchCommandExamples
