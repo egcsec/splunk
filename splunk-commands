@@ -1,3 +1,4 @@
+SPLUNK
 
 An easy example of a Splunk search: 
 
@@ -6,3 +7,11 @@ source="favorite_colors.json" | table name, "favorite color" | sort "favorite co
 Official Splunk commands: 
 
 https://docs.splunk.com/Documentation/SCS/current/SearchReference/SearchCommandExamples
+
+
+TryHackMe is a great resource:
+
+https://tryhackme.com/room/jrsecanalystintrouxo
+
+
+
